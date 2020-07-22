@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://aluiziodeveloper.com.br/">
-    <img alt="Aluizio Developer" src="./assets/img/logo.png" height="90" />
+    <img alt="Aluizio Developer" src="./assets/img/logo.png" height="70" />
   </a>
 </p>
 <h2 align="center">
@@ -60,7 +60,7 @@ Faça um clone deste repositório e instale no seu ambiente de desenvolvimento u
 > É necessário que você esteja com o [GIT](https://git-scm.com/) instalado na sua máquina.
 
 ```
-git clone https://github.com/jorgealuizio/desafio-fundamentos-reactjs.git
+git clone https://github.com/jorgealuizio/exemplo-nodejs-mongodb.git
 ```
 
 Após clonar o conteúdo do repositório, acesse o diretório criado usando um terminal e efetue a instalação das dependências:
