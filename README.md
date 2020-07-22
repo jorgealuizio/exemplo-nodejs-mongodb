@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://aluiziodeveloper.com.br/">
-    <img alt="Aluizio Developer" src="./assets/img/logo.png" height="120" />
+    <img alt="Aluizio Developer" src="./assets/img/logo.png" height="90" />
   </a>
 </p>
 <h2 align="center">
