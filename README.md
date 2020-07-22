@@ -9,7 +9,7 @@ Informação sobre tecnologia, dicas, tutoriais, mini-cursos e muito mais.
 
 ## Bills API
 
-Implementação de uma API simples (sem considerar arquitetura ou padrão de projeto) que consome recursos de **Bills** e **Categories**, para exemplificar a integração do Node.js com MongoDB.
+Implementação de uma API simples (sem considerar arquitetura ou padrão de projeto) que fornece recursos de **Bills** e **Categories**, para  exemplificar a integração do Node.js com MongoDB.
 
 Schema Mongoose de Categories:
 
