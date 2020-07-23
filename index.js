@@ -8,6 +8,9 @@ import routes from './routes'
 
 const app = express()
 
+const PORT = '3000';
+const HOST = '0.0.0.0';
+
 app.use(morgan('dev'))
 app.use(bodyParser.urlencoded({ extended: false }))
 app.use(bodyParser.json())
@@ -17,6 +20,4 @@ let db = mongoose.connect('mongodb://localhost:27017/bills_api', { useMongoClien
 
 routes(app)
 
-app.listen(3000, () => {
-	console.log('Express server has been started on port 3000!')
-})
+app.listen(PORT, HOST)
